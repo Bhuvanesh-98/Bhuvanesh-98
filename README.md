@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Bhuvanesh
 - 👀 I’m interested in Programming Java Springboot RDBMS Python WebDev OracleCloud AWS 
-- 🌱 I’m currently learning Cloud and BackendDev
+- 🌱 I’m currently learning Cloud and full stack dev...
 
 <!---
 Bhuvanesh-98/Bhuvanesh-98 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
